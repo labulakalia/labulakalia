@@ -22,4 +22,6 @@ Here are some ideas to get you started:
      no
 - ⚡ Fun fact: ...
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=labulaka521)](https://github.com/labulaka521/labulaka521)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=labulaka521&show_icons=true&theme=radical)](https://github.com/labulaka521/labulaka521)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=labulaka521)](https://github.com/anuraghazra/github-readme-stats)
