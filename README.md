@@ -8,19 +8,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I use Golang
-- 🌱 I’m currently learning TCP/IP protocol, because i want custom send tcp protcol
-- 👯 I’m looking to collaborate on ...
-     no i do not
-- 🤔 I’m looking for help with ...
-     how to learn best
-- 💬 Ask me about ...
-     no
-- 📫 How to reach me: ...
-     no
-- 😄 Pronouns: ...
-     no
-- ⚡ Fun fact: ...
+- I use Golang
+- This is my [blog](https://labulaka521.top)
+- This is my a project [Distributed Task Scheduling System](https://github.com/labulaka521/crocodile)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=labulaka521&show_icons=true&theme=onedark)](https://github.com/labulaka521/labulaka521)
 
