@@ -7,11 +7,17 @@ Here are some ideas to get you started:
 
 -->
 
+##### Skill
+- Golang
+- Vue
+- Shell
 
-- I use Golang
-- This is my [blog](https://labulaka521.top)
-- This is my a project [Distributed Task Scheduling System](https://github.com/labulaka521/crocodile)
-- If you want to contact me, you can send email to me, my email is `labulakalia@gmail.com`
+##### Project
+- [Crocodile](https://github.com/labulaka521/crocodile)
+- [ReadRssMe](https://readrss.me)
+
+##### Blog
+- [Blog](https://blog.readrss.me)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=labulaka521&show_icons=true&theme=onedark)](https://github.com/labulaka521/labulaka521)
 
