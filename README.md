@@ -10,15 +10,10 @@ Here are some ideas to get you started:
 ##### Skill
 - Golang
 - Vue
-- Shell
+- Flutter
 
-##### Project
-- [Crocodile](https://github.com/labulaka521/crocodile)
-- [ReadRssMe](https://readrss.me)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=labulakalia&show_icons=true&theme=onedark)](https://github.com/labulakalia/labulakalia)
 
-##### Blog
-- [Blog](https://blog.readrss.me)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=labulakalia&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=labulaka521&show_icons=true&theme=onedark)](https://github.com/labulaka521/labulaka521)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=labulaka521&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![visitor counter](https://profile-counter.glitch.me/labulakalia/count.svg)
